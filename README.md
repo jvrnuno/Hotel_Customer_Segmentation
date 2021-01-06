@@ -8,7 +8,7 @@ Customer segmentation is the marketing process of separating your customers into
 Historically, customer segmentation has been performed by sorting and classifying customers by standard features or behavior patterns. Clustering algorithms can unveil underlying trends and associations hidden from the classic analysis and help create a more effective customer segmentation.
 
 ## Methodology
-The present project presents the customer/guest segmentation for a urban hotel in Lisbon, Portugal. We have used a dataset containing records of bookings of a city hotel, with 31 variables describing 79,330 observations between the 1st of July of 2015 and the 31st of August 2017. [^1]
+The present project presents the customer/guest segmentation for a urban hotel in Lisbon, Portugal. We have used a dataset containing records of bookings of a city hotel, with 31 variables describing 79,330 observations between the 1st of July of 2015 and the 31st of August 2017. (1)
 
 The steps followed in this project are:
 1. **[Data wrangling](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/1_Collection_Inspection.ipynb)**
@@ -16,15 +16,15 @@ The steps followed in this project are:
 	- Feature extraction
 	- Feature analysis and profiling
 	- Quality assessment and data cleaning
-2. **[Exploratory data analysis (EDA)]**(https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/2_exploratory_data_analysis.ipynb)
+2. **[Exploratory data analysis (EDA)](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/2_exploratory_data_analysis.ipynb)**
 	- Feature transformation
 	- Exploration of associations among categorical variables
 	- Pairwise exploration of correlation in selected variables
-4. [Preprocessing](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/3_Preprocessing.ipynb)
+3. **[Preprocessing](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/3_Preprocessing.ipynb)**
 	- Sample selection
 	- Categorical to cardinal transformation
 	- Feature scaling
-5. [Modeling and results](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/4_Modeling.ipynb)
+4. **[Modeling and results](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/4_Modeling.ipynb)**
 	- Dimensionality reduction
 	- Modeling with K-Means Clustering
 		- K selection
@@ -49,4 +49,4 @@ A customer profile based on the segments is presented below:
 - **Customer Segment 4:** National group guest who arrives in September and stays two nights, usually makes the reservation through a travel agency with 5-6 months in advance. This guest is very sensitive to prices and is very likely to cancel the reservation.
 
 ---
-[^1]: *Hotel booking demand datasets*. Nuno, Antonio; De Almeida, Ana; Nunes, Luis. Data In Brief n22 (2019), pag 41-49
+(1) *Hotel booking demand datasets*. Nuno, Antonio; De Almeida, Ana; Nunes, Luis. Data In Brief n22 (2019), pag 41-49
