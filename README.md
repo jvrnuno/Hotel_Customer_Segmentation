@@ -38,15 +38,13 @@ The steps followed in this project are:
 	- Customer segments profiling
 
 ## Findings and conclusion
-The present study shows an underlying segment structure in the data, and it is possible to establish five customer groups with similar characteristics. However, not all these groups have the same consistency and cohesion. Namely, samples from segments 0, 1, and 4 are closer, meaning that their attributes are more homogeneous. Segments 2 and 3 are more dispersed, and they can even be considered to not forming a group.
+The present study has shown an underlying segment structure in the data, and it is possible to establish four customer groups with similar characteristics. However, not all these groups have the same consistency and cohesion. Namely, samples from segments 2 and 3 are closer, meaning that their attributes are more homogeneous. Segments 0 and 1 are more dispersed, and they can even be considered to not forming a group.
 
 A customer profile based on the segments is presented below:
 
-- **Customer Segment 0:** Tourist guest from a European country who arrives in August and stays two nights, usually makes a reservation two months in advance through an online agency. This customer is the least sensitive to prices, so he/she is willing to pay more for ancillary services.
-- **Customer Segment 1:** Tourist national guest who comes in small groups and reserves a few rooms, usually stays two nights in October, and books three months in advance with an offline agency.
-- **Customer Segment 2:** National business guest who arrives in February, stays one night. This client usually makes the reservation a week in advance, has a contract with the hotel, and pays a discount rate.
-- **Customer Segment 3:** Tourist national guest who arrives in August and stays one night. He/She usually reserve three weeks in advance directly with the hotel, meaning that he/she has done previous research or is a returning customer. This client is not sensible to prices and is willing to pay a high rate.
-- **Customer Segment 4:** National group guest who arrives in September and stays two nights, usually makes the reservation through a travel agency with 5-6 months in advance. This guest is very sensitive to prices and is very likely to cancel the reservation.
-
+- **Customer Segment 0**: National business guest who arrives in May, stays one night. This client usually makes the reservation a week in advance, has a contract with the hotel, and pays a discount rate.
+- **Customer Segment 1**: Tourist national guest who arrives in August and stays one night. He/She usually reserve three weeks in advance directly with the hotel or uses the Agent C, meaning that he/she has done previous research or is a returning customer. This client is the least sensitive to prices and is willing to pay a high rate.
+- **Customer Segment 2**: National group guest who arrives in September and stays two nights, usually makes the reservation through a travel agency with 5-6 months in advance. This guest is very sensitive to prices and is very likely to cancel the reservation.
+- **Customer Segment 3**: Tourist guest from a European country who arrives in August and stays two nights, usually makes a reservation two months in advance through an online agency (Agent A). This customer is not sensitive to prices, so he/she is willing to pay more for the room or ancillary services.
 ---
 (1) *Hotel booking demand datasets*. Nuno, Antonio; De Almeida, Ana; Nunes, Luis. Data In Brief n22 (2019), pag 41-49
