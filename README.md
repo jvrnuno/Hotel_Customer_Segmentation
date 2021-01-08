@@ -18,7 +18,7 @@ The steps followed in this project are:
 	- Quality assessment and data cleaning
 2. **[Exploratory data analysis (EDA)](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/2_exploratory_data_analysis.ipynb)**
 	- Feature transformation
-	- Exploration of associations among categorical variables
+	- Exploring associations among categorical variables
 	- Pairwise exploration of correlation in selected variables
 3. **[Preprocessing](https://github.com/jvrnuno/Capstone-3/blob/main/notebooks/3_Preprocessing.ipynb)**
 	- Sample selection
